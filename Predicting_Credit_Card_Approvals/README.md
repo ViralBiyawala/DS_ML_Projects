@@ -35,6 +35,6 @@ This project is licensed under the [MIT License](LICENSE). Feel free to modify a
 ## Acknowledgments
  This project was developed based on the knowledge and skills acquired from [DataCamp](https://app.datacamp.com/). The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/).
 >
-For any questions or suggestions, please contact me at Gmail: (vb.viralbiyawala08@gmail.com) or [LinkedIN](https://www.linkedin.com/in/viralbiyawala/).
+For any questions or suggestions, please contact me at Gmail: vb.viralbiyawala08@gmail.com or [LinkedIN](https://www.linkedin.com/in/viralbiyawala/).
 
 ## **Thank You**
