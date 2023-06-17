@@ -1,42 +1,39 @@
-# Project Name
+# Investigating Netflix Movies and Guest Stars in The Office
 
 ## Project Overview
-
-This project focuses on analyzing Netflix movie data and exploring the trend in movie durations over time. The goal is to determine if there has been a decline in the average duration of movies released on Netflix between 2011 and 2020.
+> This project focuses on analyzing Netflix movie data and exploring the trend in movie durations over time. The goal is to determine if there has been a decline in the average duration of movies released on Netflix between 2011 and 2020.
 
 ## Implementation
-
-The project is implemented using Python and several libraries, including pandas, matplotlib, and numpy. The dataset is loaded into a pandas DataFrame, and data manipulation and visualization techniques are applied to analyze the movie durations.
+> The project implementation can be found in the `notebook.ipynb` file. The dataset is loaded into a pandas DataFrame, and data manipulation and visualization techniques are applied to analyze the movie durations.
 
 ## Data
-
-The project uses a CSV file containing Netflix movie data. The file includes information such as movie titles, release years, genres, countries, and durations. The dataset is obtained from a reliable source and is used for analytical purposes in this project.
+> The project uses a `netfilx_data.csv` file containing Netflix movie data. The file includes information such as movie titles, release years, genres, countries, and durations and is located in `datasets` folder .
 
 ## Getting Started
-
-To get started with this project, follow these steps:
-
-1. Clone the project repository from [GitHub URL].
-2. Install the required dependencies listed in the `requirements.txt` file.
-3. Download the Netflix movie data CSV file and place it in the appropriate directory.
-4. Run the project script using Python [version].
-5. The output will include visualizations and insights on the trend in movie durations over time.
+> To get started with this project, follow these steps:
+> 
+> 1. Clone the repository to your local machine.
+> 2. Open the `notebook.ipynb` file using Jupyter Notebook or any compatible environment.
+> 3. Run the cells in the notebook to execute the code and reproduce the analysis.
+> 4. Explore the results, experiment with different techniques, and make improvements as needed.
 
 ## Dependencies
-
-The project has the following dependencies:
-
-- Python [version]
-- pandas [version]
-- matplotlib [version]
-- numpy [version]
-
-Make sure to install these dependencies before running the project script.
+> This project requires the following dependencies:
+> - Python (version 3.0 or above)
+> - Jupyter Notebook
+> - Pandas
+> - NumPy
+> - Matplotlib
+> - Seaborn
+> 
+> Make sure these dependencies are installed in your environment before running the notebook.
 
 ## License
-
-This project is licensed under the [license name]. You can find the details in the `LICENSE` file.
+> This project is licensed under the [MIT License](LICENSE). Feel free to modify and adapt the code according to your needs.
 
 ## Acknowledgments
+> This project was developed based on the knowledge and skills acquired from [DataCamp](https://app.datacamp.com/). The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/).
+>
+> For any questions or suggestions, please contact me at vb.viralbiyawala08@gmail.com or [LinkedIN](https://www.linkedin.com/in/viralbiyawala/).
 
-We would like to acknowledge [individuals or organizations] for their contributions and support in this project. Their assistance and guidance were instrumental in achieving the project's goals.
+## **Thank You**
