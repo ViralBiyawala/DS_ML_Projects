@@ -1,45 +1,42 @@
-# Project Overview
+# What and Where are the World's Oldest Businesses
 
-This project aims to analyze the oldest businesses in the world using a dataset compiled by BusinessFinancing.co.uk. The dataset contains information about the oldest businesses in various countries, including their names, year founded, category code, and country code. The analysis explores factors that enable businesses to stand the test of time and also examines the distribution of oldest businesses across continents and industries.
+## Project Overview
+> This project aims to analyze the oldest businesses in the world. The dataset contains information about the oldest businesses in various countries, including their names, year founded, category code, and country code. The analysis explores factors that enable businesses to stand the test of time and also examines the distribution of oldest businesses across continents and industries.
 
 ## Implementation
-
-The project is implemented using Python and the pandas library for data manipulation and analysis. The dataset is loaded into pandas DataFrames, and various operations such as sorting, merging, grouping, and filtering are performed to extract insights from the data. The results are then displayed or stored for further analysis.
+> The project implementation can be found in the `notebook.ipynb`. The project is implemented using Python and the pandas library for data manipulation and analysis. The dataset is loaded into pandas DataFrames, and various operations such as sorting, merging, grouping, and filtering are performed to extract insights from the data. The results are then displayed or stored for further analysis.
 
 ## Data
-
-The project utilizes the following datasets:
-
-- `businesses.csv`: Contains information about the oldest businesses, including their names, year founded, category code, and country code.
-- `countries.csv`: Provides details about different countries, including their country codes, names, and continents.
-- `categories.csv`: Describes the category codes and corresponding descriptions for different business categories.
-- `new_businesses.csv`: Contains additional data on oldest businesses in some countries to fill the gaps in the original dataset.
+> The project utilizes the following datasets:
+> 
+> - `businesses.csv`: Contains information about the oldest businesses, including their names, year founded, category code, and country code.
+> - `countries.csv`: Provides details about different countries, including their country codes, names, and continents.
+> - `categories.csv`: Describes the category codes and corresponding descriptions for different business categories.
+> - `new_businesses.csv`: Contains additional data on oldest businesses in some countries to fill the gaps in the original dataset.
 
 ## Getting Started
-
-To run the project, follow these steps:
-
-1. Make sure you have Python installed on your system.
-2. Install the required dependencies by running the command `pip install pandas`.
-3. Download the project files and place them in a directory.
-4. Open a command prompt or terminal and navigate to the project directory.
-5. Run the Python script using the command `python project.py`.
+> To get started with this project, follow these steps:
+> 
+> 1. Clone the repository to your local machine.
+> 2. Open the `notebook.ipynb` file using Jupyter Notebook or any compatible environment.
+> 3. Run the cells in the notebook to execute the code and reproduce the analysis.
+> 4. Explore the results, experiment with different techniques, and make improvements as needed.
 
 ## Dependencies
-
-The project requires the following dependencies:
-
-- Python 3.x
-- pandas library
-
-Make sure to install these dependencies before running the project.
+> This project requires the following dependencies:
+> - Python (version 3.0 or above)
+> - Jupyter Notebook
+> - Pandas
+> - NumPy
+> 
+> Make sure these dependencies are installed in your environment before running the notebook.
 
 ## License
-
-This project is released under the MIT license. You can find the full license text in the `LICENSE` file included with the project.
+> This project is licensed under the [MIT License](LICENSE). Feel free to modify and adapt the code according to your needs.
 
 ## Acknowledgments
+> This project was developed based on the knowledge and skills acquired from [DataCamp](https://app.datacamp.com/). The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/).
+>
+> For any questions or suggestions, please contact me at vb.viralbiyawala08@gmail.com or [LinkedIN](https://www.linkedin.com/in/viralbiyawala/).
 
-The project utilizes the dataset compiled by BusinessFinancing.co.uk. Special thanks to them for providing the valuable data for analysis.
-
-Please note that this is a sample README file generated based on the provided content. Feel free to modify and expand it according to your project's specific requirements.
+## **Thank You**
