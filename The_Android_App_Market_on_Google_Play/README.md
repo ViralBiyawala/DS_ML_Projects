@@ -25,7 +25,7 @@
 > - NumPy
 > - Matplotlib
 > - Seaborn
-> - Plotty
+> - Ploty
 > 
 > Make sure these dependencies are installed in your environment before running the notebook.
 
